@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ypb:home|Door43 (ypb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ypb|d43-ypb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ypb/archive/master.zip|d43-ypb.zip]]
+
+**Recent Changes**
+{{changes>ns = ypb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ypb|Ethnologue data]]
+
